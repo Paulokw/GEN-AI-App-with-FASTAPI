@@ -1,0 +1,6 @@
+Langchain-community
+ipykernel
+langchain-core
+fastapi
+langserve
+uvicorn
